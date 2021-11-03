@@ -189,6 +189,15 @@ a:hover, a:active {
     width: 460px;
 }
 
+.license {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+
 .pad {
     padding-top: 0;
     padding-bottom: 80px;
